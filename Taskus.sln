@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taskus", "Taskus\Taskus.csproj", "{B5BDE923-C2FF-4D89-B4DC-385B80F0AE7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taskus.Tests", "Taskus.Tests\Taskus.Tests.csproj", "{CE9F6083-A0CC-4DA5-8660-FE2B42BF7952}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B5BDE923-C2FF-4D89-B4DC-385B80F0AE7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5BDE923-C2FF-4D89-B4DC-385B80F0AE7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5BDE923-C2FF-4D89-B4DC-385B80F0AE7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE9F6083-A0CC-4DA5-8660-FE2B42BF7952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE9F6083-A0CC-4DA5-8660-FE2B42BF7952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE9F6083-A0CC-4DA5-8660-FE2B42BF7952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE9F6083-A0CC-4DA5-8660-FE2B42BF7952}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
