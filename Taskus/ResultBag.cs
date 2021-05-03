@@ -1,4 +1,4 @@
-﻿namespace TaskExtensions
+﻿namespace Taskus
 {
 	class ResultBag<T>
 	{
