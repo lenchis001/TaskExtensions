@@ -1,7 +1,16 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.1</TargetFramework>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Version>0.0.5</Version>
+    <Authors>Liavontsi Khachuyeu</Authors>
+    <Product />
+    <Description>Extensions of standard async functionality.</Description>
+    <PackageProjectUrl>https://github.com/lenchis001/Taskus</PackageProjectUrl>
+    <PackageLicenseExpression>https://mit-license.org/</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/lenchis001/Taskus</RepositoryUrl>
+    <SignAssembly>false</SignAssembly>
   </PropertyGroup>
 
 </Project>
